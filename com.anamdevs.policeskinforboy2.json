@@ -1,0 +1,228 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+         "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+         "backup_ads_natives":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_rewards":"",
+         "open_ads_admob":"",
+         "open_ads_alien":"1",
+         "switch_open_ads":"1",
+         "switch_banner_natives_ads":"1",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"Ludo King",
+         "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      }
+   ],
+   "Skin":[
+      {
+         "id":1,
+         "name_skin":"Erkek Poli̇ce",
+         "skin_url":"https://archive.org/download/girl-police/ERKEK-POL%C4%B0CE.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/ERKEK-POL%C4%B0CEa.png"
+      },
+      {
+         "id":2,
+         "name_skin":"Girl Police",
+         "skin_url":"https://archive.org/download/girl-police/Girl-Police.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Girl-Policea.png"
+      },
+      {
+         "id":3,
+         "name_skin":"Hd Police Girl",
+         "skin_url":"https://archive.org/download/girl-police/HD-police-girl.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/HD-police-girla.png"
+      },
+      {
+         "id":4,
+         "name_skin":"Girl Police",
+         "skin_url":"https://archive.org/download/girl-police/Not-sexy-police-girl.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Not-sexy-police-girla.png"
+      },
+      {
+         "id":5,
+         "name_skin":"Mikecrack Police",
+         "skin_url":"https://archive.org/download/girl-police/POLICE.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/POLICEa.png"
+      },
+      {
+         "id":6,
+         "name_skin":"Police Girl",
+         "skin_url":"https://archive.org/download/girl-police/Police-Drone-Murder-Drones.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police-Drone-Murder-Dronesa.png"
+      },
+      {
+         "id":7,
+         "name_skin":"Officer Police",
+         "skin_url":"https://archive.org/download/girl-police/Police-Drone.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police-Dronea.png"
+      },
+      {
+         "id":8,
+         "name_skin":"Police",
+         "skin_url":"https://archive.org/download/girl-police/Police-Man.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police-Mana.png"
+      },
+      {
+         "id":9,
+         "name_skin":"Police2",
+         "skin_url":"https://archive.org/download/girl-police/Police-Officer.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police-Officer2a.png"
+      },
+      {
+         "id":10,
+         "name_skin":"Police Dron",
+         "skin_url":"https://archive.org/download/girl-police/Police-Officer2.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police-Officera.png"
+      },
+      {
+         "id":11,
+         "name_skin":"Police Dron Murde",
+         "skin_url":"https://archive.org/download/girl-police/Police-Steve.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police-Steve2a.png"
+      },
+      {
+         "id":12,
+         "name_skin":"Police Fbi",
+         "skin_url":"https://archive.org/download/girl-police/Police-Steve2.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police-Stevea.png"
+      },
+      {
+         "id":13,
+         "name_skin":"Police Fbi2",
+         "skin_url":"https://archive.org/download/girl-police/Police-Swat.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police-Swata.png"
+      },
+      {
+         "id":14,
+         "name_skin":"Police Girl",
+         "skin_url":"https://archive.org/download/girl-police/Police-png-1.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police-png-1a.png"
+      },
+      {
+         "id":15,
+         "name_skin":"Police Herob",
+         "skin_url":"https://archive.org/download/girl-police/Police2.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Police2a.png"
+      },
+      {
+         "id":16,
+         "name_skin":"Police Herob Girl",
+         "skin_url":"https://archive.org/download/girl-police/RP-police-girl.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/RP-police-girla.png"
+      },
+      {
+         "id":17,
+         "name_skin":"Police Man",
+         "skin_url":"https://archive.org/download/girl-police/Villager-police-officer.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/Villager-police-officera.png"
+      },
+      {
+         "id":18,
+         "name_skin":"Police Officer",
+         "skin_url":"https://archive.org/download/girl-police/hot-girl-police.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/hot-girl-policea.png"
+      },
+      {
+         "id":19,
+         "name_skin":"Police Officer2",
+         "skin_url":"https://archive.org/download/girl-police/mikecrack-police.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/mikecrack-policea.png"
+      },
+      {
+         "id":20,
+         "name_skin":"Police Officer3",
+         "skin_url":"https://archive.org/download/girl-police/officer-police.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/officer-policea.png"
+      },
+      {
+         "id":21,
+         "name_skin":"Police",
+         "skin_url":"https://archive.org/download/girl-police/police-fbi.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/police-fbi2a.png"
+      },
+      {
+         "id":22,
+         "name_skin":"Police Stv",
+         "skin_url":"https://archive.org/download/girl-police/police-fbi2.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/police-fbia.png"
+      },
+      {
+         "id":23,
+         "name_skin":"Police Stv 2",
+         "skin_url":"https://archive.org/download/girl-police/police-girl.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/police-girla.png"
+      },
+      {
+         "id":24,
+         "name_skin":"Police Swat",
+         "skin_url":"https://archive.org/download/girl-police/police-herobrine-girl.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/police-herobrine-girla.png"
+      },
+      {
+         "id":25,
+         "name_skin":"Police Girl",
+         "skin_url":"https://archive.org/download/girl-police/police-herobrine.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/police-herobrinea.png"
+      },
+      {
+         "id":26,
+         "name_skin":"Police",
+         "skin_url":"https://archive.org/download/girl-police/police-officer3.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/police-officer%203a.png"
+      },
+      {
+         "id":27,
+         "name_skin":"Swat Police ",
+         "skin_url":"https://archive.org/download/girl-police/skin-police.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/skin-policea.png"
+      },
+      {
+         "id":28,
+         "name_skin":"Villag Police Officer",
+         "skin_url":"https://archive.org/download/girl-police/swat-police-znobre.png",
+         "view_skin":"https://archive.org/download/hd-police-girla/swat-police-znobrea.png"
+      }
+   ],
+   "Addons":[
+      {
+         "id":1,
+         "name_add":"",
+         "add_url":"",
+         "addB_url":"",
+         "addR_url":"",
+         "view_add":"",
+         "des_add":""
+      }
+   ],
+   "Maps":[
+      {
+         "id":1,
+         "name_map":"",
+         "map_url":"",
+         "view_map":"",
+         "des_map":""
+      }
+   ]
+}
